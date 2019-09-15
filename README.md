@@ -1,4 +1,4 @@
-This is my [website](http://shuyang.github.io/) powered by Jekyll.
+This is my [website](yxie66.github.io) powered by Jekyll.
 
 The design of the website is tweaked from the [minimal theme] (https://github.com/orderedlist/minimal) by [orderedlist](https://github.com/orderedlist).
 
